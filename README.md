@@ -1,2 +1,7 @@
-# day2
-all the activities of andela day2 bootcamp are in this repository
+# Python labs 
+all the activities of day2 in this repository
+
+- mail sender api
+- word count app
+- max min app
+- tests
